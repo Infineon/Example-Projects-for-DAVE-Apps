@@ -1,5 +1,7 @@
 # DAVE™ Code Examples
-Below is list of examples projects that can be downloaded. The downloaded project zip file can be imported into DAVE™ version 4
+Below is list of examples projects that can be downloaded. The downloaded project zip file can be imported into DAVE™ version 4.
+
+Please [click here](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.daveide) to download the latest version of DAVE™
 
 
 | Project      | Description               | Target MCU series         |Version|Last update|
